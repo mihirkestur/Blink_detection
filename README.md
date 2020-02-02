@@ -9,3 +9,7 @@
  4) execute the "blink_to_press_up.py" python file.
  5) place your cursor on the dino game and click to start.
  6) then go hands free, blink away to glory!
+
+Requirements:
+1) webcam
+2) python 3.4 or above
